@@ -1,1 +1,0 @@
-# power_of_math_project

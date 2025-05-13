@@ -1,1 +1,1 @@
-# power_of_math_project
+# power_of_math_project![alt text](<Screenshot 2025-05-13 114035.png>)
